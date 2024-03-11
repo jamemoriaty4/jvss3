@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da9e707b-d520-4fa9-9566-c46edb1f2fc2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/arraycopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/demoSDT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/demoString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/bai2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/bai3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/bai4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/bai5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/bai6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/bai7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/bai8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/bai9.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2dS2shpCvxpVSicnKx4buljICXA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Array.executor": "Run",
+    "Application.arraycopy.executor": "Run",
+    "Application.bai1.executor": "Run",
+    "Application.bai2.executor": "Run",
+    "Application.bai3.executor": "Run",
+    "Application.bai4.executor": "Run",
+    "Application.bai5.executor": "Run",
+    "Application.bai6.executor": "Run",
+    "Application.bai7.executor": "Run",
+    "Application.bai8.executor": "Run",
+    "Application.demo1.executor": "Run",
+    "Application.demoSDT.executor": "Run",
+    "Application.demoString.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/Java/SS3/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da9e707b-d520-4fa9-9566-c46edb1f2fc2" name="Changes" comment="" />
+      <created>1709987368599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709987368599</updated>
+      <workItem from="1709987369657" duration="9578000" />
+      <workItem from="1710165894275" duration="3310000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
